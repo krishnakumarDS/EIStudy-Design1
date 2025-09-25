@@ -1,7 +1,0 @@
-export declare class ErrorHandler {
-    private static logger;
-    static handle(error: Error, context: string): void;
-    private static isTransientError;
-    static handleAsync<T>(promise: Promise<T>, context: string): Promise<T | null>;
-}
-//# sourceMappingURL=ErrorHandling.d.ts.map
