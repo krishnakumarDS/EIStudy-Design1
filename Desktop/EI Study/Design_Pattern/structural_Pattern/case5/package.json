@@ -1,0 +1,24 @@
+{
+  "name": "adapter-pattern-media-player",
+  "version": "1.0.0",
+  "description": "Adapter Pattern Demonstration with Media Player",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "dev": "ts-node src/main.ts"
+  },
+  "keywords": [
+    "typescript",
+    "design-patterns",
+    "adapter",
+    "media-player"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.11.6",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4"
+  }
+}

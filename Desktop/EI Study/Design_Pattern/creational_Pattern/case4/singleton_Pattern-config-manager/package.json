@@ -1,0 +1,24 @@
+{
+  "name": "singleton-pattern-config-manager",
+  "version": "1.0.0",
+  "description": "Singleton Pattern Demonstration with Configuration Manager",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "dev": "ts-node src/main.ts"
+  },
+  "keywords": [
+    "typescript",
+    "design-patterns",
+    "singleton",
+    "config-manager"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.11.6",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4"
+  }
+}

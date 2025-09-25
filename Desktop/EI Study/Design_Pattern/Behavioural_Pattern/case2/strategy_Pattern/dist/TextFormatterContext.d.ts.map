@@ -1,0 +1,1 @@
+{"version":3,"file":"TextFormatterContext.d.ts","sourceRoot":"","sources":["../src/TextFormatterContext.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,6BAA6B,CAAC;AAG7D,qBAAa,oBAAoB;IAC/B,OAAO,CAAC,SAAS,CAAiB;IAClC,OAAO,CAAC,MAAM,CAA8C;gBAEhD,SAAS,EAAE,cAAc;IAIrC,YAAY,CAAC,SAAS,EAAE,cAAc,GAAG,IAAI;IAO7C,UAAU,CAAC,IAAI,EAAE,MAAM,GAAG,MAAM;IAOhC,uBAAuB,IAAI,MAAM;CAGlC"}

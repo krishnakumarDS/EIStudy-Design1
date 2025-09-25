@@ -1,0 +1,26 @@
+factory-method-document-creator/
+├── src/
+│   ├── interfaces/
+│   │   ├── IDocument.ts
+│   │   └── IDocumentCreator.ts
+│   ├── models/
+│   │   ├── DocumentType.ts
+│   │   └── DocumentContent.ts
+│   ├── documents/
+│   │   ├── PdfDocument.ts
+│   │   ├── WordDocument.ts
+│   │   └── ExcelDocument.ts
+│   ├── creators/
+│   │   ├── PdfDocumentCreator.ts
+│   │   ├── WordDocumentCreator.ts
+│   │   └── ExcelDocumentCreator.ts
+│   ├── services/
+│   │   ├── Logger.ts
+│   │   ├── InputValidator.ts
+│   │   └── ErrorHandler.ts
+│   ├── app.ts
+│   └── main.ts
+├── dist/
+├── package.json
+├── tsconfig.json
+└── README.md

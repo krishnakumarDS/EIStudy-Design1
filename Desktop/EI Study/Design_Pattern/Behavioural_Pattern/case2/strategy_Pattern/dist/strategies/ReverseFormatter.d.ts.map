@@ -1,0 +1,1 @@
+{"version":3,"file":"ReverseFormatter.d.ts","sourceRoot":"","sources":["../../src/strategies/ReverseFormatter.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,8BAA8B,CAAC;AAG9D,qBAAa,gBAAiB,YAAW,cAAc;IACrD,OAAO,CAAC,MAAM,CAA0C;IAExD,MAAM,CAAC,IAAI,EAAE,MAAM,GAAG,MAAM;IAK5B,OAAO,IAAI,MAAM;CAGlB"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"NewsItem.d.ts","sourceRoot":"","sources":["../../src/models/NewsItem.ts"],"names":[],"mappings":"AAAA,qBAAa,QAAQ;IAEV,EAAE,EAAE,MAAM;IACV,KAAK,EAAE,MAAM;IACb,OAAO,EAAE,MAAM;IACf,SAAS,EAAE,IAAI;gBAHf,EAAE,EAAE,MAAM,EACV,KAAK,EAAE,MAAM,EACb,OAAO,EAAE,MAAM,EACf,SAAS,EAAE,IAAI;CAEzB"}

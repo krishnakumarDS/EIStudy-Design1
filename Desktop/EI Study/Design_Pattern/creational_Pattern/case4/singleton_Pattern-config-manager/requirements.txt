@@ -1,0 +1,17 @@
+singleton-pattern-config-manager/
+├── src/
+│   ├── models/
+│   │   ├── ConfigItem.ts
+│   │   └── ConfigType.ts
+│   ├── services/
+│   │   ├── Logger.ts
+│   │   ├── InputValidator.ts
+│   │   └── ErrorHandler.ts
+│   ├── ConfigurationManager.ts
+│   ├── ConfigSerializer.ts
+│   ├── app.ts
+│   └── main.ts
+├── dist/
+├── package.json
+├── tsconfig.json
+└── README.md

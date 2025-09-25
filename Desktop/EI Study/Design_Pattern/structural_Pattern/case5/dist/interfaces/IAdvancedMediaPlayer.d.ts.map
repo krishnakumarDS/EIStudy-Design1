@@ -1,0 +1,1 @@
+{"version":3,"file":"IAdvancedMediaPlayer.d.ts","sourceRoot":"","sources":["../../src/interfaces/IAdvancedMediaPlayer.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,oBAAoB;IACnC,OAAO,CAAC,QAAQ,EAAE,MAAM,GAAG,IAAI,CAAC;IAChC,OAAO,CAAC,QAAQ,EAAE,MAAM,GAAG,IAAI,CAAC;CACjC"}

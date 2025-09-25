@@ -1,0 +1,1 @@
+{"version":3,"file":"ConfigSerializer.d.ts","sourceRoot":"","sources":["../src/ConfigSerializer.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,qBAAqB,CAAC;AAIjD,qBAAa,gBAAgB;IAC3B,OAAO,CAAC,MAAM,CAAkD;IAEhE,SAAS,CAAC,MAAM,EAAE,GAAG,CAAC,MAAM,EAAE,UAAU,CAAC,GAAG,MAAM;IAelD,WAAW,CAAC,UAAU,EAAE,MAAM,GAAG,GAAG,CAAC,MAAM,EAAE,UAAU,CAAC;CAoBzD"}

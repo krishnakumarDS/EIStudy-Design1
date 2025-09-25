@@ -1,0 +1,22 @@
+decorator-pattern-coffee-system/
+├── src/
+│   ├── interfaces/
+│   │   └── ICoffee.ts
+│   ├── components/
+│   │   └── SimpleCoffee.ts
+│   ├── decorators/
+│   │   ├── CoffeeDecorator.ts
+│   │   ├── MilkDecorator.ts
+│   │   ├── SugarDecorator.ts
+│   │   ├── WhipDecorator.ts
+│   │   └── CaramelDecorator.ts
+│   ├── services/
+│   │   ├── Logger.ts
+│   │   ├── InputValidator.ts
+│   │   └── ErrorHandler.ts
+│   ├── app.ts
+│   └── main.ts
+├── dist/
+├── package.json
+├── tsconfig.json
+└── README.md

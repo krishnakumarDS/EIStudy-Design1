@@ -1,0 +1,1 @@
+{"version":3,"file":"DocumentContent.d.ts","sourceRoot":"","sources":["../../src/models/DocumentContent.ts"],"names":[],"mappings":"AAAA,qBAAa,eAAe;IAEjB,KAAK,EAAE,MAAM;IACb,IAAI,EAAE,MAAM;IACZ,MAAM,EAAE,MAAM;gBAFd,KAAK,EAAE,MAAM,EACb,IAAI,EAAE,MAAM,EACZ,MAAM,GAAE,MAAoB;CAEtC"}

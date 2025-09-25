@@ -1,0 +1,1 @@
+{"version":3,"file":"Mp4Player.d.ts","sourceRoot":"","sources":["../../src/players/Mp4Player.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,oBAAoB,EAAE,MAAM,oCAAoC,CAAC;AAG1E,qBAAa,SAAU,YAAW,oBAAoB;IACpD,OAAO,CAAC,MAAM,CAAmC;IAEjD,OAAO,CAAC,QAAQ,EAAE,MAAM,GAAG,IAAI;IAI/B,OAAO,CAAC,QAAQ,EAAE,MAAM,GAAG,IAAI;CAIhC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"SugarDecorator.d.ts","sourceRoot":"","sources":["../../src/decorators/SugarDecorator.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,mBAAmB,CAAC;AACpD,OAAO,EAAE,MAAM,EAAE,MAAM,oBAAoB,CAAC;AAE5C,qBAAa,cAAe,SAAQ,eAAe;IACjD,SAAS,CAAC,MAAM,EAAE,MAAM,CAAgC;IAExD,OAAO,IAAI,MAAM;IAKjB,cAAc,IAAI,MAAM;CAIzB"}

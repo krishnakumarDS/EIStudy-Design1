@@ -1,0 +1,21 @@
+adapter-pattern-media-player/
+├── src/
+│   ├── interfaces/
+│   │   ├── IMediaPlayer.ts
+│   │   └── IAdvancedMediaPlayer.ts
+│   ├── players/
+│   │   ├── AudioPlayer.ts
+│   │   ├── VlcPlayer.ts
+│   │   └── Mp4Player.ts
+│   ├── adapters/
+│   │   └── MediaAdapter.ts
+│   ├── services/
+│   │   ├── Logger.ts
+│   │   ├── InputValidator.ts
+│   │   └── ErrorHandler.ts
+│   ├── app.ts
+│   └── main.ts
+├── dist/
+├── package.json
+├── tsconfig.json
+└── README.md

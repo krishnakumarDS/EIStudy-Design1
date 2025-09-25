@@ -1,0 +1,1 @@
+{"version":3,"file":"ConfigItem.d.ts","sourceRoot":"","sources":["../../src/models/ConfigItem.ts"],"names":[],"mappings":"AAAA,qBAAa,UAAU;IAEZ,GAAG,EAAE,MAAM;IACX,KAAK,EAAE,MAAM;IACb,IAAI,EAAE,MAAM;IACZ,WAAW,EAAE,MAAM;gBAHnB,GAAG,EAAE,MAAM,EACX,KAAK,EAAE,MAAM,EACb,IAAI,EAAE,MAAM,EACZ,WAAW,GAAE,MAAW;CAElC"}

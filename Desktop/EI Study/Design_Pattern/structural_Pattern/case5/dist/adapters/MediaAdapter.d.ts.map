@@ -1,0 +1,1 @@
+{"version":3,"file":"MediaAdapter.d.ts","sourceRoot":"","sources":["../../src/adapters/MediaAdapter.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,4BAA4B,CAAC;AAM1D,qBAAa,YAAa,YAAW,YAAY;IAC/C,OAAO,CAAC,mBAAmB,CAAuB;IAClD,OAAO,CAAC,MAAM,CAAsC;gBAExC,SAAS,EAAE,MAAM;IAU7B,IAAI,CAAC,SAAS,EAAE,MAAM,EAAE,QAAQ,EAAE,MAAM,GAAG,IAAI;CAShD"}

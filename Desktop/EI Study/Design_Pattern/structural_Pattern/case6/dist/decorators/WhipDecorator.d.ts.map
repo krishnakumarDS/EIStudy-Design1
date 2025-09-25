@@ -1,0 +1,1 @@
+{"version":3,"file":"WhipDecorator.d.ts","sourceRoot":"","sources":["../../src/decorators/WhipDecorator.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,mBAAmB,CAAC;AACpD,OAAO,EAAE,MAAM,EAAE,MAAM,oBAAoB,CAAC;AAE5C,qBAAa,aAAc,SAAQ,eAAe;IAChD,SAAS,CAAC,MAAM,EAAE,MAAM,CAA+B;IAEvD,OAAO,IAAI,MAAM;IAKjB,cAAc,IAAI,MAAM;CAIzB"}

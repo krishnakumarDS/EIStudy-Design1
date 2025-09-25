@@ -20,4 +20,14 @@ export default defineConfig(({ mode }) => ({
       "knolabs": path.resolve(__dirname, "./knolabs-plumbing-shop-gemini-develop/knolabs-plumbing-shop-gemini-develop/src")
     },
   },
+  build: {
+    rollupOptions: {
+      external: ['knolabs/pages/KnoBotPage'],
+      output: {
+        globals: {
+          'knolabs/pages/KnoBotPage': 'KnoBotPage'
+        }
+      }
+    }
+  }
 }));

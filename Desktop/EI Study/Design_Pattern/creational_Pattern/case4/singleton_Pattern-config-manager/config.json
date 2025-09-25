@@ -1,0 +1,32 @@
+{
+  "app.name": {
+    "value": "Design Patterns Demo",
+    "type": "string",
+    "description": "Application name"
+  },
+  "app.version": {
+    "value": "1.0.0",
+    "type": "string",
+    "description": "Application version"
+  },
+  "app.debug": {
+    "value": "false",
+    "type": "boolean",
+    "description": "Debug mode flag"
+  },
+  "server.port": {
+    "value": "3000",
+    "type": "number",
+    "description": "Server port number"
+  },
+  "database.enabled": {
+    "value": "true",
+    "type": "boolean",
+    "description": "Database enabled flag"
+  },
+  "12344222223": {
+    "value": "21123",
+    "type": "string",
+    "description": "none"
+  }
+}

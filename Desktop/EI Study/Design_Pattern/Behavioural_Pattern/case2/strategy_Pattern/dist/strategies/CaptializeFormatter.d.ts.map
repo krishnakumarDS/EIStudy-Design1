@@ -1,0 +1,1 @@
+{"version":3,"file":"CaptializeFormatter.d.ts","sourceRoot":"","sources":["../../src/strategies/CaptializeFormatter.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,8BAA8B,CAAC;AAG9D,qBAAa,mBAAoB,YAAW,cAAc;IACxD,OAAO,CAAC,MAAM,CAA6C;IAE3D,MAAM,CAAC,IAAI,EAAE,MAAM,GAAG,MAAM;IAK5B,OAAO,IAAI,MAAM;CAGlB"}
